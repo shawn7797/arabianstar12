@@ -22,8 +22,13 @@ a:hover {
   text-decoration: none;
 }
 
+@font-face {
+  font-family: Fertigo;
+  src: url(Fertigo_PRO.otf);
+}
+
 h1, h2, h3, h4, h5, h6, .font-primary {
-  font-family: "Raleway", sans-serif;
+  font-family: "Fertigo", sans-serif;
 }
 
 /*--------------------------------------------------------------
